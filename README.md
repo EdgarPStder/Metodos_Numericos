@@ -10,15 +10,15 @@ Este repositorio contiene implementaciones de varios métodos numéricos clásic
 
 Cada uno con su propia **interfaz gráfica interactiva**:
 
-- **Método de Bisección**
-- **Método de la Secante**
-- **Método de Newton-Raphson**
+- [**Método de Bisección**](Metodos_Numericos/Biseccion.py)
+- [**Método de la Secante**](Metodos_Numericos/Secante.py)
+- [**Método de Newton-Raphson**](Metodos_Numericos/Newton-Raphson.py)
 
 Permiten ingresar funciones de forma dinámica, configurar tolerancia, iteraciones máximas, y visualizar los resultados paso a paso.
 
 ---
 
-### 🧮 Calculadora de Matrices
+### 🧮 [Calculadora de Matrices](Metodos_Numericos/Matrices.py)
 
 Incluye una herramienta gráfica para operar con matrices de cualquier tamaño. Funcionalidades:
 
